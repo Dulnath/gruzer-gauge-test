@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestApplication</string>
+    <string name="this_is_a_test_application">This is a test Application!</string>
+</resources>
